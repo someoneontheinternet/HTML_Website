@@ -30,11 +30,11 @@
 
 	padding: 33%;
 	
-	background: url(banner.jpg) center center;
+	background-image: url(frontPageImage1.jpg);	
 	background-repeat: no-repeat;
+	background: center;
 	background-size: cover;
 	color: #FFF;
-	position: relative;
 	/*position: relative;*/
 
 	line-height: 2300%;
@@ -42,7 +42,7 @@
 
 section.splash-banner {
 
-	background-image: url(banner.jpg);
+	background: url(banner.jpg) center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #FFF;
