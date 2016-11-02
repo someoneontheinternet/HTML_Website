@@ -24,15 +24,13 @@
 }
 
 .image-1-main-page {
-
 	margin-left: 4%;
 	margin-right: 5%;
 
 	padding: 33%;
 	
-	background-image: url(https://someoneontheinternet.github.io/Website/frontPageImage1.jpg);	
+	background-image: url(frontPageImage1.jpg);	
 	background-repeat: no-repeat;
-	background: center;
 	background-size: cover;
 	color: #FFF;
 	/*position: relative;*/
