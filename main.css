@@ -77,6 +77,8 @@ section.splash-banner {
 
 .splash-banner-title {
 
+        padding: 1px;
+
 	font-weight: bolder;
 	font-size: 300%;
 	font-family: Arial;
